@@ -14,7 +14,7 @@ Esta carpeta contiene las primeras 3 Actividades, las cuales se describen a cont
 - Certificados de los cuatro mundos de Interland.    https://beinternetawesome.withgoogle.com/es-419_all/interland
 - Impresión de pantalla de los marcadores y del historial de un navegador web.
 
-[![Certificados y más](https://user-images.githubusercontent.com/32878468/132118083-d8a072a7-7c65-48b4-9f2b-e1b18381bf88.png)
+[![Certificados y más](https://user-images.githubusercontent.com/32878468/132118182-d016b1d5-02c6-4777-8a66-e50a492b03f5.png)
 
 ## Actividades-3
 - Captura de pantalla de la consola después de ejecutar los comandos:
