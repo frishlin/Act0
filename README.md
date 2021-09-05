@@ -13,13 +13,16 @@ Esta carpeta contiene las primeras 3 Actividades, las cuales se describen a cont
 
 ## Actividades-3
 - Captura de pantalla de la consola después de ejecutar los comandos:
-| Comandos |
-| cd | 
-| mkdir |
-
+> cd
+> mkdir
+> touch
+> cat
+> ls
+> ls -l
+> cp
+> mv
+> clear
 - Captura de pantalla de la consola después de ejecutar los comandos:
-
-grep
-history (debe mostrar todos los comandos usados)
-
+> grep
+> history (debe mostrar todos los comandos usados)
 - Archivo .txt donde se explique como funciona git y su relación con Github
