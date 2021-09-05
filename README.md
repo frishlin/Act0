@@ -1,2 +1,1 @@
-# Actividades 1, 2 y 3 
-## Escuela de Código
+# Escuela de Código - Actividades 1, 2, 3
