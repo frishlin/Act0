@@ -1,0 +1,38 @@
+permisos de lectura, escritura y ejecución de los archivos y carpetas:
+---------------------------------------------------------------------
+
+
+Cambiar permisos (chmod)
+
+Usar el comando chmod para cambiar los permisos de un archivo o un directorio. El usuario debe ser el propietario del archivo o del directorio, o tener acceso al directorio raíz para cambiar sus permisos. La forma general del comando chmod es:
+
+chmod permisos nombre
+
+donde permisos indica los permisos que se quieren cambiar y nombre es el nombre del archivo o directorio afectado.
+
+Los permisos pueden especificarse de varias formas. A continuación se cita uno de los métodos más sencillos:
+
+Usar una o más letras para indicar los usuarios implicados:
+
+u (para el usuario)
+
+g (para el grupo)
+
+o (para otros)
+
+a (all; para todas las categorías anteriores)
+
+Indicar si los permisos se van a agregar (+) o eliminar (-).
+
+Utilizar una o más letras para indicar los permisos:
+
+r (read; de lectura)
+
+w (write; de escritura)
+
+x (execute; de ejecución)
+
+
+Enlaces de consulta:
+-------------------
+https://docs.oracle.com/cd/E19620-01/805-7644/x-5lc2i/index.html
