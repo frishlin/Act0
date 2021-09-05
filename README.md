@@ -8,11 +8,13 @@ Esta carpeta contiene las primeras 3 Actividades, las cuales se describen a cont
 - Archivo .txt en donde se expliquen los permisos de lectura, escritura y ejecución de los archivos y carpetas.  (pendiente, tema por ver)
 
 
-[![Anexos y más](https://user-images.githubusercontent.com/32878468/132118083-d8a072a7-7c65-48b4-9f2b-e1b18381bf88.png)]
+[![Anexos y más](https://user-images.githubusercontent.com/32878468/132118232-6dc80cc8-2661-4a33-8be6-d8fdb799090b.png)
 
 ## Actividad-2
 - Certificados de los cuatro mundos de Interland.    https://beinternetawesome.withgoogle.com/es-419_all/interland
 - Impresión de pantalla de los marcadores y del historial de un navegador web.
+
+[![Certificados y más](https://user-images.githubusercontent.com/32878468/132118083-d8a072a7-7c65-48b4-9f2b-e1b18381bf88.png)
 
 ## Actividades-3
 - Captura de pantalla de la consola después de ejecutar los comandos:
@@ -29,3 +31,5 @@ Esta carpeta contiene las primeras 3 Actividades, las cuales se describen a cont
 > grep |
 > history (debe mostrar todos los comandos usados)
 - Archivo .txt donde se explique como funciona git y su relación con Github
+
+[![Comandos y más](https://user-images.githubusercontent.com/32878468/132118256-a7acd3ef-e880-45b6-a18c-8e0ecb174403.png)
