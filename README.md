@@ -7,6 +7,9 @@ Esta carpeta contiene las primeras 3 Actividades, las cuales se describen a cont
 - Archivo .txt que contenga investigación sobre Linux y sus distribuciones.
 - Archivo .txt en donde se expliquen los permisos de lectura, escritura y ejecución de los archivos y carpetas.  (pendiente, tema por ver)
 
+
+[![Anexos y más](https://user-images.githubusercontent.com/32878468/132118083-d8a072a7-7c65-48b4-9f2b-e1b18381bf88.png)]
+
 ## Actividad-2
 - Certificados de los cuatro mundos de Interland.    https://beinternetawesome.withgoogle.com/es-419_all/interland
 - Impresión de pantalla de los marcadores y del historial de un navegador web.
