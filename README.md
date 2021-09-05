@@ -1,6 +1,6 @@
 # Escuela de Código - Actividades 1, 2, 3
 
-Esta carpeta contiene las primeras 3 Actividades, las cuales se describen a continuación:
+Este proyecto contiene las primeras 3 Actividades, las cuales se describen a continuación:
 
 ## Actividad-1
 - Resolver las actividades de los anexos.
